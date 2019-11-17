@@ -1,3 +1,5 @@
+# Project moved to https://github.com/tjresearch/research-kevin-kevin
+
 # AutoPGN
 ## An automatic chess-move transcriber.
 
